@@ -1,0 +1,16 @@
+.odd {
+  background-color: #FF9897;
+  color: black;
+  font-family: Verdana, sans-serif;
+}
+.cool {
+  font-size: 24px;
+}
+#blue {
+  color: rgb(16, 40, 252);
+  font-size: 36px;
+}
+#green {
+  background-color: rgb(158, 255, 158);
+  font-weight: bold;
+}
